@@ -12,5 +12,6 @@ public class Main {
         System.out.println();
         p2.tampilInfo();
         kasir.tampilIdentitas();
+        kasir.prosesBelanja(p2, 11);
     }
 }
