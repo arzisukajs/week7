@@ -5,5 +5,7 @@ public class Main {
         Kasir kasir = new Kasir("Maman");
 
         p1.tampilInfo();
+        kasir.tampilIdentitas();
+        
     }
 }
