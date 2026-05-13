@@ -5,13 +5,13 @@ public class Main {
         Kasir kasir = new Kasir("Maman");
 
         p1.tampilInfo();
-        kasir.tampilIdentitas();
+        kasir.tampilIndentitas();
         kasir.prosesBelanja(p1, 3);
 
         System.out.println();
         System.out.println();
         p2.tampilInfo();
-        kasir.tampilIdentitas();
+        kasir.tampilIndentitas();
         kasir.prosesBelanja(p2, 11);
     }
 }
