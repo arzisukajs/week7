@@ -1,3 +1,3 @@
-public class Makanan {
+public class Makanan extends Produk {
     
 }
